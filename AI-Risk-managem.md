@@ -1,4 +1,4 @@
-RISK MANAGEMENT AI
+RISK MAAGEMENT AI
 Organizations are increasingly using AI to manage risk in various ways:
 
 Fraud Detection: AI-powered systems can analyze large volumes of transaction data in real-time to identify unusual patterns or anomalies that may indicate fraud or financial risk.
